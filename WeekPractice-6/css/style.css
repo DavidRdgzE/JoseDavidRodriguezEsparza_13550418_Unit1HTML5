@@ -1,0 +1,46 @@
+body{
+	background-color: blue;
+}
+
+header h2{
+	text-align: center;
+}
+
+article{
+	display: inline-block;
+	border: 3px solid black;
+	padding: 10px;
+}
+
+article h3{
+	color: red;
+}
+
+article p{
+	color: brown;
+}
+
+nav{
+	text-align: center;
+}
+
+nav a{
+	color: lightblue;
+	font-family: serif;
+	font-size: 1.5em;
+	padding: 10px;
+}
+
+.section{
+	text-align: center;
+	background-color: lightblue;
+}
+
+footer{
+	text-align: center;
+	font-size: 1.3em;
+}
+
+footer a{
+	color: lightblue;
+}

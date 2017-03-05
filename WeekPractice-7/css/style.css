@@ -1,0 +1,36 @@
+body{
+    background-color: lightblue;
+}
+
+h1{
+    text-align: center;
+    background-color:#55f;
+    color: #ff0000  ;
+    margin-top: 0px;
+}
+
+article{
+    margin: 0px 0px;
+}
+
+article h2{
+    text-align: center;
+    color: #0404b4;
+}
+
+article h3{
+    font-weight: bold;
+    display: inline-block;
+    font-size: 20px;
+    width: 200px;
+    margin-left: 38%;
+    color: #8A4B08;
+}
+
+article h3+p{
+    display: inline-block;
+}
+
+article p{
+    width: 300px;
+}

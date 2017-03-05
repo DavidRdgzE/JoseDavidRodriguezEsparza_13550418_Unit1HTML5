@@ -1,0 +1,23 @@
+#mainnav a{
+	color: red;
+}
+
+#sidenav a{
+	color: purple;
+}
+
+#partnerlinks a{
+	color: brown;
+}
+
+#content p{
+	color: blue;
+}
+
+#mainheadings h1{
+	text-align: center;
+}
+
+#mainheadings h2{
+	text-align: center;
+}

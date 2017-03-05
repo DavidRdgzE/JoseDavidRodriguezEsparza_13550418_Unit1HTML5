@@ -1,0 +1,52 @@
+body{
+    background-color: lightblue;
+}
+        
+li{
+    list-style: none;
+}
+
+h1{
+    text-align: center;
+}
+        
+section{
+    display: inline-block;
+    width: 69%;
+    height: 540px;
+    background-color: red;
+}
+        
+nav{
+    float: right;
+    text-align: center;
+    display: inline-block;
+    width: 30%;
+    height: 500px;
+    background-color: red;
+}
+        
+nav  li{
+    border: 1px solid;
+    padding-top: 67px;
+    padding-bottom: 80px;
+    cursor: pointer;
+}
+
+article h3{
+    margin-top: 50px;
+    font-weight: bold;
+    display: inline-block;
+    font-size: 20px;
+    width: 200px;
+    margin-left: 28%;
+    color: black;
+}
+
+article h3+p{
+    display: inline-block;
+}
+
+article p{
+    width: 300px;
+}
